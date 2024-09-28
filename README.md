@@ -1,0 +1,1 @@
+ Chatt App is a mobile app which is built by Kotlin, Firebase, Android Studio to continue conversations between users through messages. Users can sign up, find recent conversations, and receive notifications.
